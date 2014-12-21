@@ -1,0 +1,9 @@
+E:\class20.12.14\StudentEntrySqlApp1\StudentEntrySqlApp1\bin\Debug\StudentEntrySqlApp1.exe.config
+E:\class20.12.14\StudentEntrySqlApp1\StudentEntrySqlApp1\bin\Debug\StudentEntrySqlApp1.exe
+E:\class20.12.14\StudentEntrySqlApp1\StudentEntrySqlApp1\bin\Debug\StudentEntrySqlApp1.pdb
+E:\class20.12.14\StudentEntrySqlApp1\StudentEntrySqlApp1\obj\Debug\StudentEntrySqlApp1.csprojResolveAssemblyReference.cache
+E:\class20.12.14\StudentEntrySqlApp1\StudentEntrySqlApp1\obj\Debug\StudentEntrySqlApp1.Form1.resources
+E:\class20.12.14\StudentEntrySqlApp1\StudentEntrySqlApp1\obj\Debug\StudentEntrySqlApp1.Properties.Resources.resources
+E:\class20.12.14\StudentEntrySqlApp1\StudentEntrySqlApp1\obj\Debug\StudentEntrySqlApp1.csproj.GenerateResource.Cache
+E:\class20.12.14\StudentEntrySqlApp1\StudentEntrySqlApp1\obj\Debug\StudentEntrySqlApp1.exe
+E:\class20.12.14\StudentEntrySqlApp1\StudentEntrySqlApp1\obj\Debug\StudentEntrySqlApp1.pdb

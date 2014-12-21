@@ -1,0 +1,12 @@
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\bin\Debug\StudentEntryReadSqlApp.exe.config
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\bin\Debug\StudentEntryReadSqlApp.exe
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\bin\Debug\StudentEntryReadSqlApp.pdb
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\obj\Debug\StudentEntryReadSqlApp.csprojResolveAssemblyReference.cache
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\obj\Debug\StudentEntryReadSqlApp.Form1.resources
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\obj\Debug\StudentEntryReadSqlApp.Properties.Resources.resources
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\obj\Debug\StudentEntryReadSqlApp.csproj.GenerateResource.Cache
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\obj\Debug\StudentEntryReadSqlApp.exe
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\obj\Debug\StudentEntryReadSqlApp.pdb
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\obj\Debug\StudentEntryReadSqlApp.MenuUi.resources
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\bin\Debug\StudentEntrySqlApp1.exe
+E:\class20.12.14\StudentEntryReadSqlApp\StudentEntryReadSqlApp\bin\Debug\StudentEntrySqlApp1.pdb

@@ -1,0 +1,9 @@
+F:\promit\class17.12.14\EmplyeeInfoApp\EmplyeeInfoApp\bin\Debug\EmplyeeInfoApp.exe.config
+F:\promit\class17.12.14\EmplyeeInfoApp\EmplyeeInfoApp\obj\Debug\EmplyeeInfoApp.csprojResolveAssemblyReference.cache
+F:\promit\class17.12.14\EmplyeeInfoApp\EmplyeeInfoApp\obj\Debug\EmplyeeInfoApp.EmployeeInformation.resources
+F:\promit\class17.12.14\EmplyeeInfoApp\EmplyeeInfoApp\obj\Debug\EmplyeeInfoApp.Properties.Resources.resources
+F:\promit\class17.12.14\EmplyeeInfoApp\EmplyeeInfoApp\obj\Debug\EmplyeeInfoApp.csproj.GenerateResource.Cache
+F:\promit\class17.12.14\EmplyeeInfoApp\EmplyeeInfoApp\bin\Debug\EmplyeeInfoApp.exe
+F:\promit\class17.12.14\EmplyeeInfoApp\EmplyeeInfoApp\bin\Debug\EmplyeeInfoApp.pdb
+F:\promit\class17.12.14\EmplyeeInfoApp\EmplyeeInfoApp\obj\Debug\EmplyeeInfoApp.exe
+F:\promit\class17.12.14\EmplyeeInfoApp\EmplyeeInfoApp\obj\Debug\EmplyeeInfoApp.pdb
